@@ -7,7 +7,7 @@ _________________________________
 | Processor | 12th Gen Intel(R) Core Alder Lake i5-12400F |
 | Discrete Graphics | AMD Radeon RX 6600 |
 | Integrated Graphics | No |
-| Sound chip | Realtek ALC897 (layout-id:12 (0C000000)) |
+| Sound chip | Realtek ALC897 (DeviceProperties/layout-id:12 (0C000000)) |
 _________________________________
 
 # What works : 
