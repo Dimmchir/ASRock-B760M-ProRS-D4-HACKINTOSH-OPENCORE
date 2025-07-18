@@ -15,7 +15,7 @@ _________________________________
 - Sound
 - Boot-chime
 - Sleep and wake
-- Ethernet/Bluetooth
+- Ethernet
 - Custom USB port mapping with USBToolBox
 ```
 _________________________________
