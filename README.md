@@ -7,7 +7,7 @@ _________________________________
 | Processor | 12th Gen Intel(R) Core Alder Lake i5-12400F |
 | Discrete Graphics | AMD Radeon RX 6600 |
 | Integrated Graphics | No |
-| Sound chip | Realtek ALC897 (DeviceProperties/layout-id:12 (0C000000)) |
+| Sound chip | Realtek ALC897 (DeviceProperties/layout-id:12) |
 _________________________________
 
 # What works : 
@@ -28,7 +28,8 @@ Sometimes it needs 2-3x times to boot into system.
 Issue fixed by removing -v from boot-args
 ```
 _________________________________
-<img width="1399" height="1439" alt="Screenshot 2025-07-18 at 11 39 20" src="https://github.com/user-attachments/assets/a398945d-b470-4340-b01e-a508fd185f1f" />
+<img width="1420" height="1435" alt="Screen" src="https://github.com/user-attachments/assets/d0323225-9d53-4577-93b4-60035c180801" />
+
 
 # Warning!
 Smbios serial numbers have been removed from Config.plist:
