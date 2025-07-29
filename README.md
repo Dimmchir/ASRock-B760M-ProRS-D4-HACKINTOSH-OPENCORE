@@ -5,7 +5,7 @@ _________________________________
 | ------------------- | ------------------------------------------- |
 | Motherboard | ASRock B760M Pro RS/D4, BIOS v.10.03 |
 | Processor | 12th Gen Intel(R) Core Alder Lake i5-12400F |
-| Discrete Graphics | AMD Radeon RX 6600 |
+| Discrete Graphics | ASRock AMD Radeon RX 6600 |
 | Integrated Graphics | No |
 | Sound chip | Realtek ALC897 (DeviceProperties/layout-id:12) |
 _________________________________
