@@ -19,6 +19,15 @@ _________________________________
 - Custom USB port mapping with USBToolBox
 ```
 _________________________________
+
+# Bugs : 
+```
+AMD (Navi) Cards had issue when booting using -v (verbose) boot-args,
+you will face restart / black screen right after the verbose finished.
+Sometimes it needs 2-3x times to boot into system.
+Issue fixed by removing -v from boot-args
+```
+_________________________________
 <img width="1399" height="1439" alt="Screenshot 2025-07-18 at 11 39 20" src="https://github.com/user-attachments/assets/a398945d-b470-4340-b01e-a508fd185f1f" />
 
 # Warning!
