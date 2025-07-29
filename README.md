@@ -5,7 +5,7 @@ _________________________________
 | ------------------- | ------------------------------------------- |
 | Motherboard | ASRock B760M Pro RS/D4, BIOS v.10.03 |
 | Processor | 12th Gen Intel(R) Core Alder Lake i5-12400F |
-| Discrete Graphics | ASRock AMD Radeon RX 6600 |
+| Discrete Graphics | PowerColor AMD Radeon RX 6600 Fighter |
 | Integrated Graphics | No |
 | Sound chip | Realtek ALC897 (DeviceProperties/layout-id:12) |
 _________________________________
@@ -22,7 +22,7 @@ _________________________________
 
 # Bugs : 
 ```
-AMD (Navi) Cards had issue when booting using -v (verbose) boot-args,
+AMD (Navi 23) Graphics Cards had issue when booting using -v (verbose) boot-args,
 you will face restart / black screen right after the verbose finished.
 Sometimes it needs 2-3x times to boot into system.
 Issue fixed by removing -v from boot-args
