@@ -22,7 +22,7 @@ _________________________________
 
 # CPUFriendDataProvider : 
 ```
-Fixed Intel Alder Lake CPU frequency using CPUFriendDataProvider.kext obtained [here](https://github.com/dortania/bugtracker/issues/190)
+Fixed Intel Alder Lake CPU frequency using CPUFriendDataProvider.kext obtained [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 Without this kext the Geekbench performance result is 6363, but with this kext the result is much higher 9062.
 This CPUFriendDataProvider.kext should be useable on Comet Lake, Rocket Lake, and Alder Lake setups.
 ```
