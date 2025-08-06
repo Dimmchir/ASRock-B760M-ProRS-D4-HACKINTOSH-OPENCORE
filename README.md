@@ -1,4 +1,4 @@
-# ASRock-B760M-ProRS-D4-HACKINTOSH-OPENCORE
+# ASRock-B760M-Pro-RS-D4-i5-12400F-HACKINTOSH-OPENCORE
 Hackintosh settings for ASRock-B760M-Pro RS/D4 Sequoia v.15.5 OpenCore 1.0.5
 _________________________________
 | Specifications | Detail                                                  |
