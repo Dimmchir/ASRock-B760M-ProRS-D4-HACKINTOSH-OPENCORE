@@ -26,10 +26,9 @@ Fixed Intel Alder Lake CPU frequency using CPUFriendDataProvider.kext obtained [
 
 Without this kext the Geekbench performance result is 6363, but with this kext the result is much higher - 9062, like in Windows.
 
+<img width="689" height="956" alt="1" src="https://github.com/user-attachments/assets/ce056764-cff5-44e3-9d0f-e26ead2a3381" />
+
 This CPUFriendDataProvider.kext should be useable on Comet Lake, Rocket Lake, and Alder Lake setups.
-
-<img width="918" height="1274" alt="1" src="https://github.com/user-attachments/assets/b45e0c79-befd-44d1-9d09-b49acf2bf86e" />
-
 _________________________________
 
 # Bugs : 
