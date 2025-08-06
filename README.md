@@ -28,6 +28,7 @@ This CPUFriendDataProvider.kext should be useable on Comet Lake, Rocket Lake, an
 ```
 _________________________________
 <img width="918" height="1274" alt="1" src="https://github.com/user-attachments/assets/b45e0c79-befd-44d1-9d09-b49acf2bf86e" />
+obtained [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 
 # Bugs : 
