@@ -4,7 +4,7 @@ _________________________________
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
 | Motherboard | ASRock B760M Pro RS/D4, BIOS v.10.03 |
-| Processor | 12th Gen Intel(R) Core Alder Lake i5-12400F |
+| Processor | i5-12400F Alder Lake |
 | Discrete Graphics | PowerColor AMD Radeon RX 6600 Fighter |
 | Integrated Graphics | No |
 | Sound chip | Realtek ALC897 (DeviceProperties/layout-id:12) |
@@ -17,6 +17,15 @@ _________________________________
 - Sleep and wake
 - Ethernet
 - Custom USB port mapping with USBToolBox
+```
+_________________________________
+```
+Fixed Intel Alder Lake CPU frequency using CPUFriendDataProvider.kext obtained [here](https://github.com/dortania/bugtracker/issues/190)
+Without this kext the Geekbench performance result is 6363, but with this kext the result is much higher 9062.
+This CPUFriendDataProvider.kext should be useable on Comet Lake, Rocket Lake, and Alder Lake setups.
+
+<img width="918" height="1274" alt="1" src="https://github.com/user-attachments/assets/db76bfcc-db05-4f83-8324-4742f4bedc70" />
+
 ```
 _________________________________
 
