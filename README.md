@@ -26,6 +26,7 @@ Fixed Intel Alder Lake CPU frequency using CPUFriendDataProvider.kext obtained [
 Without this kext the Geekbench performance result is 6363, but with this kext the result is much higher - 9062, like in Windows.
 This CPUFriendDataProvider.kext should be useable on Comet Lake, Rocket Lake, and Alder Lake setups.
 ```
+use [ProperTree](https://github.com/corpnewt/ProperTree)
 <img width="918" height="1274" alt="1" src="https://github.com/user-attachments/assets/b45e0c79-befd-44d1-9d09-b49acf2bf86e" />
 
 _________________________________
@@ -54,4 +55,3 @@ When updating Mac OS, you must change the config.plist in the Misc/Security/Secu
 After updating, you can return the value to Default in the Misc/Security/SecureBootModel section.
 _________________________________
 To edit config.plist it is better to use [ProperTree](https://github.com/corpnewt/ProperTree)
-use [ProperTree](https://github.com/corpnewt/ProperTree)
